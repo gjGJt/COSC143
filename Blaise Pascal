@@ -1,7 +1,9 @@
-include <iostream>;
-use namespace std;
+#include <iostream>
+using namespace std;
+
+int main()
+ {
 double PSI, Pascal;
-int main {
 cout<<"Enter pressure in PSI: ";
 cin>>PSI;
 Pascal=Psi*6894.76
